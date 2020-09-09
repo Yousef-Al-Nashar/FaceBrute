@@ -7,7 +7,7 @@ It is an advanced tool for cracking the password of a specific Facebook account.
 
 <b>How To Install<b/>
 
-<li>Linux</li><br/>
+<mark><li>Linux</li></mark><br/>
 
 sudo apt update<br/>
 sudo apt install python3<br/>
