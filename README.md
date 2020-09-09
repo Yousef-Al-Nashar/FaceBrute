@@ -1,7 +1,8 @@
 # FaceBrute
 It is an advanced tool for cracking the password of a specific Facebook account.
 ================
-[Proxy]<b/> - [✔]<br/>
+[Proxy] - [✔]<br/>
 [Tor] - [✖]<br/>
 [Speed] - [Medium]<br/>
 
+<b>How To Install<b/>
