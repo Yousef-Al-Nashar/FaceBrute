@@ -17,7 +17,7 @@ cd FaceBrute<br/>
 pip3 install -r requements.txt<br/>
 python3 FaceBrute.py<br/>
 
-Termux<br/>
+<mark><li>Termux</li></mark><br/>
 
 pkg update<br/>
 pkg install python3<br/>
