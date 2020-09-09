@@ -8,7 +8,6 @@ It is an advanced tool for cracking the password of a specific Facebook account.
 <b>How To Install<b/>
 
 <mark><li>Linux</li></mark><br/>
-
 sudo apt update<br/>
 sudo apt install python3<br/>
 sudo apt install git<br/>
@@ -18,7 +17,6 @@ pip3 install -r requements.txt<br/>
 python3 FaceBrute.py<br/>
 
 <mark><li>Termux</li></mark><br/>
-
 pkg update<br/>
 pkg install python3<br/>
 pkg install git<br/>
