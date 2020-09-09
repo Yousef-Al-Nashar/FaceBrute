@@ -113,7 +113,6 @@ def main():
                 print("")
                 print("")
         except KeyboardInterrupt:
-            os.system("clear")
             A.DL(t=0.1)
             print("\n\033[0;32m[✔] Exit")
             sys.exit(1)
