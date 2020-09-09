@@ -7,22 +7,22 @@ It is an advanced tool for cracking the password of a specific Facebook account.
 
 <b>How To Install<b/>
 
-Linux
+Linux<br/>
 
-sudo apt update
-sudo apt install python3
-sudo apt install git
-git clone https://github.com/SyrienHawk/FaceBrute
-cd FaceBrute
-pip3 install -r requements.txt
-python3 FaceBrute.py
+sudo apt update<br/>
+sudo apt install python3<br/>
+sudo apt install git<br/>
+git clone https://github.com/SyrienHawk/FaceBrute<br/>
+cd FaceBrute<br/>
+pip3 install -r requements.txt<br/>
+python3 FaceBrute.py<br/>
 
-Termux
+Termux<br/>
 
-pkg update
-pkg install python3
-pkg install git
-git clone https://github.com/SyrienHawk/FaceBrute
-cd FaceBrute
-pip3 install -r requements.txt
+pkg update<br/>
+pkg install python3<br/>
+pkg install git<br/>
+git clone https://github.com/SyrienHawk/FaceBrute<br/>
+cd FaceBrute<br/>
+pip3 install -r requements.txt<br/>
 python3 FaceBrute.py
